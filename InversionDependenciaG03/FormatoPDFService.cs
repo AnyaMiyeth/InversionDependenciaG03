@@ -12,6 +12,7 @@ namespace InversionDependenciaG03
         {
             reporteVentas = new ReporteVentasService();
             reporteCompra = new ReporteCompraService();
+
         }
          public string Generar()
         {
